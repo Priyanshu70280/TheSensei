@@ -67,3 +67,4 @@
 [2025-09-22 08:52:43] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-09-22 10:45:46] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2025-09-23 01:59:09] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-09-23 10:44:12] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
