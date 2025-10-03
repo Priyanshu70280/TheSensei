@@ -113,3 +113,4 @@
 [2025-10-02 06:41:44] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-10-02 08:50:33] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-10-03 02:18:18] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-03 03:43:10] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
