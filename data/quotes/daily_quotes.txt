@@ -121,3 +121,4 @@
 [2025-10-04 18:36:56] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-10-04 22:33:38] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-10-05 02:28:08] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-05 10:40:43] Code is like humor. When you have to explain it, it's bad. - Cory House
