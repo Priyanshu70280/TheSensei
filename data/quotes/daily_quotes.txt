@@ -267,3 +267,4 @@
 [2025-11-05 08:54:52] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-11-05 14:52:00] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-11-05 18:44:26] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-05 20:53:22] Make it work, make it right, make it fast. - Kent Beck
