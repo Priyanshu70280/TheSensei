@@ -305,3 +305,4 @@
 [2025-11-11 12:59:54] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-11-11 18:43:35] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2025-11-11 20:52:57] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-12 06:45:45] Code is like humor. When you have to explain it, it's bad. - Cory House
