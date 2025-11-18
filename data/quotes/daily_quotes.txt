@@ -338,3 +338,4 @@
 [2025-11-18 03:54:09] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-11-18 06:44:50] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-11-18 10:48:15] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-18 13:00:15] The best error message is the one that never shows up. - Thomas Fuchs
