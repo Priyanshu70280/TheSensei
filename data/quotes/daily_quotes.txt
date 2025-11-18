@@ -340,3 +340,4 @@
 [2025-11-18 10:48:15] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-11-18 13:00:15] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-11-18 14:51:18] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-18 18:45:53] It's not a bug – it's an undocumented feature. - Anonymous
