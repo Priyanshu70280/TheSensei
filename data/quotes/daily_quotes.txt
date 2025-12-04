@@ -420,3 +420,4 @@
 [2025-12-04 13:04:36] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2025-12-04 16:53:30] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-12-04 18:49:01] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-04 20:54:48] It's not a bug – it's an undocumented feature. - Anonymous
