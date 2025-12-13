@@ -449,3 +449,4 @@
 [2025-12-11 22:41:30] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-12-12 16:47:48] Good code is its own best documentation. - Steve McConnell
 [2025-12-12 22:40:11] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-13 02:42:26] It's not a bug – it's an undocumented feature. - Anonymous
