@@ -501,3 +501,4 @@
 [2025-12-22 16:50:34] The best error message is the one that never shows up. - Thomas Fuchs
 [2025-12-23 04:10:09] The best way to predict the future is to implement it. - Alan Kay
 [2025-12-23 08:57:35] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-23 14:52:49] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
