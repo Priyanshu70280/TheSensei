@@ -707,3 +707,4 @@
 [2026-02-07 22:50:25] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-02-08 05:11:46] The best way to predict the future is to implement it. - Alan Kay
 [2026-02-08 09:01:03] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-08 10:56:09] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
