@@ -743,3 +743,4 @@
 [2026-02-15 09:02:24] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-02-15 13:13:16] First, solve the problem. Then, write the code. - John Johnson
 [2026-02-16 05:13:58] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-16 13:37:20] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
