@@ -948,3 +948,4 @@
 [2026-03-31 22:54:47] First, solve the problem. Then, write the code. - John Johnson
 [2026-04-01 09:48:43] First, solve the problem. Then, write the code. - John Johnson
 [2026-04-01 11:30:12] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-01 14:02:49] Make it work, make it right, make it fast. - Kent Beck
