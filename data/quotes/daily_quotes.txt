@@ -973,3 +973,4 @@
 [2026-04-06 03:41:27] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-04-06 09:50:03] Good code is its own best documentation. - Steve McConnell
 [2026-04-06 13:44:20] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-06 19:29:59] It's not a bug – it's an undocumented feature. - Anonymous
