@@ -1325,3 +1325,4 @@
 [2026-06-18 05:52:25] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-06-18 10:47:11] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-06-18 13:47:32] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-06-18 18:41:12] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
