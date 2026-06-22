@@ -1343,3 +1343,4 @@
 [2026-06-22 05:30:40] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2026-06-22 09:25:18] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2026-06-22 12:24:51] First, solve the problem. Then, write the code. - John Johnson
+[2026-06-22 18:32:52] Code is like humor. When you have to explain it, it's bad. - Cory House
