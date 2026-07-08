@@ -1413,3 +1413,4 @@
 [2026-07-07 22:00:34] First, solve the problem. Then, write the code. - John Johnson
 [2026-07-08 03:44:09] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2026-07-08 06:10:16] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-07-08 08:43:08] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
