@@ -1480,3 +1480,4 @@
 [2026-07-20 16:11:44] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-07-21 03:44:58] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-07-21 04:12:32] Make it work, make it right, make it fast. - Kent Beck
+[2026-07-21 06:09:11] It's not a bug – it's an undocumented feature. - Anonymous
