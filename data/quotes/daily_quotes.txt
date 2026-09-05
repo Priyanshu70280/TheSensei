@@ -1703,3 +1703,4 @@
 [2026-09-04 20:46:31] The best way to predict the future is to implement it. - Alan Kay
 [2026-09-05 05:13:22] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-09-05 07:46:06] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-09-05 10:35:14] It's not a bug – it's an undocumented feature. - Anonymous
