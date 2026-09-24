@@ -1792,3 +1792,4 @@
 [2026-09-24 13:45:49] Make it work, make it right, make it fast. - Kent Beck
 [2026-09-24 17:06:10] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-09-24 21:32:10] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-09-24 23:30:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
