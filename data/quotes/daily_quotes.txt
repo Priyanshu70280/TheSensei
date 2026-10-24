@@ -1928,3 +1928,4 @@
 [2026-10-23 20:00:57] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-10-23 21:25:34] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-10-23 23:32:40] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-10-24 00:50:15] The best way to predict the future is to implement it. - Alan Kay
