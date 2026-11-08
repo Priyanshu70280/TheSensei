@@ -2001,3 +2001,4 @@
 [2026-11-07 10:30:21] It's not a bug – it's an undocumented feature. - Anonymous
 [2026-11-07 17:43:23] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2026-11-07 21:52:43] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-11-08 06:01:13] The best error message is the one that never shows up. - Thomas Fuchs
